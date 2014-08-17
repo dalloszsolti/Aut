@@ -1,0 +1,17 @@
+<h1>Felhasználók listája</h1>
+
+<table class="users_table">
+  <tr>
+    <th>Név</th>
+    <th>E-mail cím</th>
+    <th>Létrehozva</th>
+  </tr>
+
+<% @users.each do |user| %>
+  <tr>
+    <td><%=link_to user.name, user  %></td>
+    <td><%=h user.email %></td>
+    <td><%=h user.created_at.strftime('%Y %b %d %H:%M:%S') %></td>
+  </tr>
+<% end %>
+</table>

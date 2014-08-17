@@ -1,0 +1,40 @@
+ <h1>Új felhasználó létrehozása</h1>  
+	
+<%= form_for @user do |f| %>  
+	  
+	  <% if @user.errors.any? %>  
+		<div class="error_messages">  
+		  <h2>Data validation error</h2>  
+		  <ul>  
+				<% for message in @user.errors.full_messages %>  
+			  		<li><%= message %></li>  
+				<% end %>  
+		  </ul>  
+		</div>  
+	<% end %>  
+	  
+	 	<div class="field">  
+			<%= f.label :Email_cím %><br/>  
+			<%= f.text_field :email %>  
+	 	</div>  
+		<div class="field">  
+			<%= f.label :name, "Név:"  %><br/>  
+			<%= f.text_field :name%>  
+		</div> 
+	 	<div class="field">  
+			<%= f.label :password, "Jelszó: " %><br/>  
+			<%= f.password_field :password %>  
+	 	</div>
+	    
+	 	<div class="field">  
+			<%= f.label :password_confirmation, "Jelszó megerősítése: " %><br/>  
+			<%= f.password_field :password_confirmation %>  
+	 	</div>
+		    <br/>
+	 	<div class="actions">
+	  		<%= f.submit "Létrehozás" %>
+	 	</div>
+		  
+	<% end %>  
+
+<% event_logger ("Sign up form displayed") %>

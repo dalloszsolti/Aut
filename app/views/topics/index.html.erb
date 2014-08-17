@@ -1,0 +1,23 @@
+﻿<h1>Topikok listája</h1>
+
+<%= link_to "Új téma létrehozása", new_topic_path %>
+<br><br>
+<table class="topics_table">
+  <tr>
+	<th>Téma</th>
+	<th>Leírás</th>
+	<th>Létrehozta</th>
+	<th>Létrehozva</th>
+	<th>Utolsó módosítás</th>
+  </tr>
+<% @topics.each do |topic| %>
+  <tr>
+	<td><%=link_to topic.title, topic %></td>
+	<td><%=h topic.description %></td>
+  	<td><%= topic.user.name %></td>
+	<td><%=h topic.created_at.strftime('%Y %b %d %H:%M:%S') %></td>
+	<td><%=h topic.updated_at.strftime('%Y %b %d %H:%M:%S') %></td>
+  </tr>
+<% end %>
+</table>
+

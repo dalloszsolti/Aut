@@ -1,0 +1,157 @@
+﻿body
+{
+background: LightGray;
+font-family: “Trebuchet MS”, Verdana, Arial, serif;
+}
+
+.users_table
+{
+	margin:0px;padding:0px;
+	width:90%;
+	box-shadow: 20px 20px 10px #888888;
+	border:1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.users_table th{
+	text-align:left;	
+	background-color:Gold;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:20px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+.users_table tr{
+	text-align:left;	
+	background-color:Silver;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:16px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+.users_table td{
+	text-align:left;	
+	background-color:Silver;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:16px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+
+
+.topics_table
+{
+	margin:0px;padding:0px;
+	width:90%;
+	box-shadow: 20px 20px 10px #888888;
+	border:1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.topics_table th{
+	text-align:left;	
+	background-color:Gold;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:20px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+.topics_table tr{
+	text-align:left;	
+	background-color:Silver;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:16px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+.topics_table td{
+	text-align:left;	
+	background-color:Silver;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:16px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+
+.comments_table
+{
+	margin:0px;padding:0px;
+	width:90%;
+	box-shadow: 20px 20px 10px #888888;
+	border:1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.comments_table th{
+	text-align:left;	
+	background-color:Gold;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:18px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+.comments_table tr{
+	text-align:left;	
+	background-color:Silver;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:16px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+.comments_table td{
+	text-align:left;	
+	background-color:Silver;
+	border:1px solid black;
+	border-width:0px 2px 2px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:16px;
+	font-family:Trebuchet MS;
+	font-weight:normal;
+	color:#000000;
+}
+
+

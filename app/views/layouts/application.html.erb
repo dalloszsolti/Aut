@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fórum</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<body bgcolor="Silver">
+
+<div id="user_nav">
+  
+  <% if current_user %>
+    Bejelentkezett felhasználó: <%= current_user.name %> |
+      <%= link_to "Kijelentkezés", log_out_path %>
+   <% else %>
+      <%= link_to "Feliratkozás", sign_up_path %> vagy 
+      <%= link_to "Bejelentkezés", log_in_path %>
+  <% end %>
+<br>
+<br>
+  <%= link_to "Felhasználók", users_path %>  |
+  <%= link_to "Fórum", topics_path %>
+  
+</div>
+
+  <% flash.each do |key, value| %>
+    <%= content_tag(:div, value, :class => "flash #{key}") %>
+  <% end %>
+
+<%= yield %>
+
+</body>
+</html>

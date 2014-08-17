@@ -1,0 +1,20 @@
+<h1>Felhasználó adatainak szerkesztése</h1>
+
+    <%= form_for(@user) do |f| %>
+
+	  <%= f.label :name, "Név: " %></br>
+	  <%= f.text_field :name %> </br></br>
+
+	  <%= f.label :email, "Email cím: "%> </br>
+	  <%= f.text_field :email %> </br></br>
+
+	  <%= f.label :password, "Jelszó: " %></br>
+	  <%= f.password_field :password %> </br></br>
+
+	  <%= f.label :password_confirmation, "Jelszó megerősítése :" %></br>
+	  <%= f.password_field :password_confirmation %></br></br>
+
+	  <%= f.submit "Mentés", class: "btn btn-large btn-primary" %></br></br>
+	
+<%= link_to 'Vissza', users_path %>
+	<% end %>

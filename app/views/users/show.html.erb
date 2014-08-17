@@ -1,0 +1,34 @@
+<html>
+  <head>
+	<title>Felhasználó Adatai</title>
+  </head>
+
+<body bgcolor="Silver">
+<h1>Felhasználó Adatai</h1>
+
+<h2>Alapadatok</h2>
+  <b>Név:</b>
+  <%=h @user.name %>
+<br>
+  <b>E-mail:</b>
+  <%=h @user.email %>
+<br>
+  <b>Létrehozva:</b>
+  <%=h @user.created_at %>  
+<br>
+
+ <b>Aktív:</b>
+  <%= if @user.active then ("Igen") else ("Nem") end%>   
+<br>
+
+<br>
+<br>
+<%= link_to 'Szerkesztés', edit_user_path(@user) %> | 
+<%= link_to 'Törlés', @user, :confirm => 'Biztosan törli ezt a felhasználót?', :method => :delete %>  
+<br>
+<br>
+
+<%= link_to 'Vissza', users_path %>
+
+
+</html>
