@@ -1,6 +1,9 @@
 ﻿<h1>Topikok listája</h1>
 
+<% if current_user%>
 <%= link_to "Új téma létrehozása", new_topic_path %>
+<% end %>
+
 <br><br>
 <table class="topics_table">
   <tr>
