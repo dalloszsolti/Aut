@@ -9,18 +9,17 @@ get "topics" => "topics#index", :as => "topics"
 get "new_topic" => "topics#new", :as => "new_topic"
 root :to => "users#index"
 
-resources :users do
+ resources :users do
   resources :topics
 end
 
-resources :user do
+ resources :user do
   resources :comments
 end
 
 resources :topics do
  resources :comments, :only => [:create]
 end
-
 
 resources :sessions
 resources :password_resets

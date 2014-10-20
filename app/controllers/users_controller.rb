@@ -8,8 +8,7 @@
 
   def create  
     @user = User.new(params[:user])  
-    
-    if @user.save  
+      if @user.save  
       event_logger ("New user saved successfully with the following details:\n"+"Email address: "+@user.email)
       redirect_to root_url
       flash[:notice] = 'Sikeresen feliratkozott!'  
