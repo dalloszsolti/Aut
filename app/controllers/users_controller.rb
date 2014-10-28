@@ -8,7 +8,7 @@
 
   def create  
     @user = User.new(params[:user])  
-      if @user.save  
+    if @user.save  
       event_logger ("New user saved successfully with the following details:\n"+"Email address: "+@user.email)
       redirect_to root_url
       flash[:notice] = 'Sikeresen feliratkozott!'  
@@ -20,13 +20,13 @@
 
 
   def index
-    
-    # If current_user.role="admin" @users=User.all
+    if current_user and current_user.role == "admin"
+      @users=User.unscoped.all
+    else
       @users=User.all
+    end 
     
-    # @users=User.all
-  
-    event_logger ("User list displayed")
+   event_logger ("User list displayed")
   end
 
   def show
@@ -39,7 +39,7 @@
     if @user.update_attributes(params[:user])
       redirect_to(@user)
       flash[:notice] = 'A felhasználó adatai sikeresen frissítésre kerültek!'
-      else
+    else
        render :action => "edit"
       end
   end
