@@ -10,6 +10,13 @@ class User < ActiveRecord::Base
   validates_presence_of :password, :on => :create
   validates_uniqueness_of :email
   
+  before_create :default_role
+  
+  private
+    def default_role
+      self.role ||= "member"
+  end 
+  
   def generate_token(column)
     begin
       self[column] = SecureRandom.urlsafe_base64
@@ -17,13 +24,14 @@ class User < ActiveRecord::Base
   end
   
   def send_password_reset
-  generate_token(:password_reset_token)
-  self.password_reset_sent_at = Time.zone.now
-  save!
-  UserMailer.password_reset(self).deliver
+    generate_token(:password_reset_token)
+    self.password_reset_sent_at = Time.zone.now
+    save!
+    UserMailer.password_reset(self).deliver
 end
 
 
-  #default_scope { where(active: true) }
+  # Deleted users are not shown by default:
+  default_scope { where(active: true) }
    
 end

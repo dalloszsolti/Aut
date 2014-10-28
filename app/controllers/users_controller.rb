@@ -20,8 +20,12 @@
 
 
   def index
-    @users=User.all
-    #User.find_by_role("member")
+    
+    # If current_user.role="admin" @users=User.all
+      @users=User.all
+    
+    # @users=User.all
+  
     event_logger ("User list displayed")
   end
 
