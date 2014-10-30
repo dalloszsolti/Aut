@@ -10,11 +10,17 @@ class User < ActiveRecord::Base
   validates_presence_of :password, :on => :create
   validates_uniqueness_of :email
   
+  before_create :default_active
   before_create :default_role
-  
+    
   private
     def default_role
       self.role ||= "member"
+  end 
+  
+  private
+    def default_active
+      self.active ||= true
   end 
   
   def generate_token(column)
@@ -28,10 +34,12 @@ class User < ActiveRecord::Base
     self.password_reset_sent_at = Time.zone.now
     save!
     UserMailer.password_reset(self).deliver
-end
+  end
 
 
-  # Deleted users are not shown by default:
-  default_scope { where(active: true) }
+# Soft-delete implementation with scopes
+
+  scope :active, -> { where(active: true) }
+  scope :inactive, -> { where(active: false) }
    
 end

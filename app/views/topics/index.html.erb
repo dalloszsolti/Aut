@@ -17,7 +17,7 @@
   <tr>
 	<td><%=link_to topic.title, topic %></td>
 	<td><%=h topic.description %></td>
-  	<td><%= topic.user.name %></td>
+	<td><%= topic.user.name %></td>
 	<td><%=h topic.created_at.strftime('%Y %b %d %H:%M:%S') %></td>
 	<td><%=h topic.updated_at.strftime('%Y %b %d %H:%M:%S') %></td>
   </tr>

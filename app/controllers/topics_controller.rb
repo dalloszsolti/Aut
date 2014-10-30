@@ -22,7 +22,11 @@
   end  
 
   def index
-	@topics=Topic.all
+	if current_user and current_user.role == "admin"
+	  @topics=Topic.unscoped.all
+	else
+	  @topics=Topic.active
+   end 
 	event_logger ("Topic list displayed")
   end
 

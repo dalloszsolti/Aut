@@ -8,7 +8,9 @@ has_many :comments
 validates_presence_of :title, :description, :user, :on => :create
 validates_uniqueness_of :title
 
- default_scope { where(active: true) }
+# Soft-delete implementation with scopes
 
+  scope :active, -> { where(active: true) }
+  scope :inactive, -> { where(active: false) }
 
 end

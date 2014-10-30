@@ -20,13 +20,11 @@
 
 
   def index
-    if current_user and current_user.role == "admin"
+   if current_user and current_user.role == "admin"
       @users=User.unscoped.all
     else
-      @users=User.all
+      @users=User.active
     end 
-    
-   event_logger ("User list displayed")
   end
 
   def show
