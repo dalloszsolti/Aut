@@ -45,7 +45,8 @@
 
   def destroy
       @user = User.find(params[:id])
-      @user.destroy
+      @user.active=false #Soft delete
+      @user.update_attributes(params[:user])
       event_logger ("User deleted successfully")
       redirect_to users_url
       flash[:notice] = 'A felhasználó adatai sikeresen törlésre kerültek!'

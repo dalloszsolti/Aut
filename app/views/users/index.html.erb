@@ -2,16 +2,32 @@
 
 <table class="users_table">
   <tr>
+    <th>#</th>
     <th>Név</th>
     <th>E-mail cím</th>
     <th>Létrehozva</th>
+    <% if current_user and current_user.role == "admin" %>
+            <th>Státusz</th>
+    <% end %>
   </tr>
 
-<% @users.each do |user| %>
+<% @users.each_with_index do |user, index| %>
   <tr>
+    <td><%=index+1 %></td>
     <td><%=link_to user.name, user  %></td>
     <td><%=h user.email %></td>
     <td><%=h user.created_at.strftime('%Y %b %d %H:%M:%S') %></td>
+
+    <% if current_user and current_user.role == "admin" %>
+        <% if user.active==true%>
+            <td><%= "Aktív" %></td>
+                <% else %>
+            <td><%= "* Törölt *" %></td>
+        <% end %>
+ <% end %>
+   
+            
   </tr>
 <% end %>
+
 </table>

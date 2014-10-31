@@ -1,7 +1,7 @@
 ﻿<h1>Topikok listája</h1>
 
 <% if current_user%>
-<%= link_to "Új téma létrehozása", new_topic_path %>
+<%= link_to "Új fórumtéma létrehozása", new_topic_path %>
 <% end %>
 
 <br><br>
@@ -12,7 +12,11 @@
 	<th>Létrehozta</th>
 	<th>Létrehozva</th>
 	<th>Utolsó módosítás</th>
+	<% if current_user and current_user.role == "admin" %>
+		<th>Státusz</th>
+	<% end %>
   </tr>
+  
 <% @topics.each do |topic| %>
   <tr>
 	<td><%=link_to topic.title, topic %></td>
@@ -20,6 +24,14 @@
 	<td><%= topic.user.name %></td>
 	<td><%=h topic.created_at.strftime('%Y %b %d %H:%M:%S') %></td>
 	<td><%=h topic.updated_at.strftime('%Y %b %d %H:%M:%S') %></td>
+    
+    <% if current_user and current_user.role == "admin" then%>
+			<% if topic.active == true then %>
+				<td><%= "Aktív" %></td>
+			  <% else %>
+				<td><%= "* Törölt *" %></td>
+		<% end %>        
+	<% end %>    
   </tr>
 <% end %>
 </table>

@@ -46,10 +46,11 @@
 
   def destroy
 	  @topic = Topic.find(params[:id])
-	  @topic.destroy
+	  @topic.active=false #Soft delete
+	  @topic.update_attributes(params[:topic])
 	  event_logger ("Topic deleted successfully")
 	  redirect_to topics_url
-	  flash[:notice] = 'A topik datai sikeresen törlésre kerültek!'
+	  flash[:notice] = 'A topik sikeresen törlésre került!'
   end
 
   def edit
