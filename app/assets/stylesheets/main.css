@@ -4,6 +4,12 @@ background: LightGray;
 font-family: “Trebuchet MS”, Verdana, Arial, serif;
 }
 
+
+.login_area
+{
+text-align: center;
+}
+
 .users_table
 {
 	margin:0px;padding:0px;

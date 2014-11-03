@@ -41,18 +41,17 @@
 <% end %>
 </table>
 
-<% if current_user%>
+<% if current_user %>
   <h2>Új hozzászólás</h2>
   <%= form_for([@topic, @topic.comments.build]) do |f| %>
     <p>
       <%= f.label :content, "Hozzászólás szövege:" %><br />
-      <%= f.text_area :content %>
+      <%= f.text_area :content, :required => true, :cols => 100, :rows => 10 %>
     </p>
     <p>
       <%= f.submit "Hozzászólás rögzítése" %>
     </p>
 <% end %>
 <% end %>
-
 
 </html>

@@ -13,8 +13,5 @@
 	  render "topics/show" 
 	end  
 	
-	
-		
-	## redirect_to topic_path(@topic)
   end
 end
