@@ -1,889 +1,232 @@
-2012-07-29 14:36:25  :  New user called
-2013 / 12 / 24 19:24:13  :  User list displayed
-2013 / 12 / 24 19:24:15  :  Topic list displayed
-2013 / 12 / 24 19:28:52  :  Topic list displayed
-2013 / 12 / 24 19:32:08  :  Topic list displayed
-2013 / 12 / 24 19:32:13  :  Topic list displayed
-2013 / 12 / 24 19:32:16  :  Topic list displayed
-2013 / 12 / 24 19:32:26  :  User list displayed
-2013 / 12 / 24 19:32:34  :  Topic list displayed
-2013 / 12 / 24 19:33:02  :  Topic list displayed
-2013 / 12 / 24 19:33:23  :  Topic list displayed
-2013 / 12 / 24 19:36:45  :  Topic list displayed
-2013 / 12 / 24 19:38:29  :  Topic list displayed
-2013 / 12 / 24 19:38:30  :  New topic method called
-2013 / 12 / 24 19:38:31  :  New topic form displayed
-2013 / 12 / 24 19:38:37  :  New topic saved successfully
-2013 / 12 / 24 19:38:38  :  User list displayed
-2013 / 12 / 24 19:38:41  :  Topic list displayed
-2013 / 12 / 24 19:40:00  :  Topic list displayed
-2013 / 12 / 24 19:45:00  :  Topic list displayed
-2013 / 12 / 24 19:45:10  :  Topic list displayed
-2013 / 12 / 24 19:45:14  :  New topic method called
-2013 / 12 / 24 19:45:14  :  New topic form displayed
-2013 / 12 / 24 19:45:20  :  New topic saved successfully
-2013 / 12 / 24 19:45:20  :  User list displayed
-2013 / 12 / 24 19:45:23  :  Topic list displayed
-2013 / 12 / 24 19:47:45  :  New topic method called
-2013 / 12 / 24 19:47:45  :  New topic form displayed
-2013 / 12 / 24 19:49:04  :  New topic saved successfully
-2013 / 12 / 24 19:49:04  :  User list displayed
-2013 / 12 / 24 19:49:06  :  Topic list displayed
-2013 / 12 / 24 19:49:07  :  New topic method called
-2013 / 12 / 24 19:49:07  :  New topic form displayed
-2013 / 12 / 24 19:49:11  :  New topic saved successfully
-2013 / 12 / 24 19:49:11  :  User list displayed
-2013 / 12 / 24 19:49:14  :  Topic list displayed
-2013 / 12 / 24 19:50:44  :  Topic list displayed
-2013 / 12 / 24 19:51:01  :  New topic method called
-2013 / 12 / 24 19:51:01  :  New topic form displayed
-2013 / 12 / 24 19:51:06  :  New topic saved successfully
-2013 / 12 / 24 19:51:06  :  User list displayed
-2013 / 12 / 24 19:51:43  :  Topic list displayed
-2013 / 12 / 24 19:51:44  :  New topic method called
-2013 / 12 / 24 19:51:44  :  New topic form displayed
-2013 / 12 / 24 19:51:48  :  New topic saved successfully
-2013 / 12 / 24 19:52:12  :  New topic saved successfully
-2013 / 12 / 24 19:52:13  :  Topic list displayed
-2013 / 12 / 24 19:52:15  :  New topic method called
-2013 / 12 / 24 19:52:15  :  New topic form displayed
-2013 / 12 / 24 19:52:20  :  New topic saved successfully
-2013 / 12 / 24 19:52:20  :  Topic list displayed
-2013 / 12 / 24 19:57:29  :  Topic list displayed
-2013 / 12 / 24 19:57:45  :  User list displayed
-2013 / 12 / 24 19:57:57  :  Topic list displayed
-2013 / 12 / 24 20:01:45  :  New topic method called
-2013 / 12 / 24 20:01:45  :  New topic form displayed
-2013 / 12 / 24 20:02:30  :  New topic method called
-2013 / 12 / 24 20:02:30  :  New topic form displayed
-2013 / 12 / 24 20:03:49  :  New topic saved successfully
-2013 / 12 / 24 20:03:50  :  Topic list displayed
-2013 / 12 / 24 20:04:48  :  Topic list displayed
-2013 / 12 / 24 20:04:58  :  Topic list displayed
-2013 / 12 / 24 20:05:37  :  New topic method called
-2013 / 12 / 24 20:05:37  :  New topic form displayed
-2013 / 12 / 24 20:07:30  :  New topic saved successfully
-2013 / 12 / 24 20:07:30  :  Topic list displayed
-2013 / 12 / 24 20:07:35  :  New topic method called
-2013 / 12 / 24 20:07:35  :  New topic form displayed
-2013 / 12 / 24 20:07:42  :  New topic saved successfully
-2013 / 12 / 24 20:07:42  :  Topic list displayed
-2013 / 12 / 24 20:08:01  :  User list displayed
-2013 / 12 / 24 20:08:07  :  New user method called
-2013 / 12 / 24 20:08:07  :  Sign up form displayed
-2013 / 12 / 24 20:08:23  :  New user saved successfully with the following details:
-Email address: t@t.t
-2013 / 12 / 24 20:08:23  :  User list displayed
-2013 / 12 / 24 20:08:45  :  User list displayed
-2013 / 12 / 24 20:09:03  :  User list displayed
-2013 / 12 / 24 20:09:06  :  Topic list displayed
-2013 / 12 / 24 20:09:07  :  New topic method called
-2013 / 12 / 24 20:09:07  :  New topic form displayed
-2013 / 12 / 24 20:09:13  :  New topic saved successfully
-2013 / 12 / 24 20:09:13  :  Topic list displayed
-2013 / 12 / 24 20:13:30  :  Topic list displayed
-2013 / 12 / 24 20:24:17  :  Topic list displayed
-2013 / 12 / 24 20:25:49  :  Topic list displayed
-2013 / 12 / 24 20:55:57  :  Topic list displayed
-2013 / 12 / 24 20:56:45  :  Topic list displayed
-2013 / 12 / 24 21:07:24  :  Topic list displayed
-2013 / 12 / 24 21:07:58  :  Topic list displayed
-2013 / 12 / 24 21:08:07  :  User list displayed
-2013 / 12 / 24 21:08:18  :  Topic list displayed
-2013 / 12 / 24 21:09:16  :  Topic list displayed
-2013 / 12 / 24 21:09:50  :  Topic list displayed
-2013 / 12 / 24 21:22:08  :  Topic list displayed
-2013 / 12 / 24 21:24:22  :  Topic list displayed
-2013 / 12 / 24 21:24:26  :  Topic list displayed
-2013 / 12 / 24 21:24:37  :  Topic list displayed
-2013 / 12 / 24 21:27:38  :  Topic list displayed
-2013 / 12 / 24 21:30:02  :  Topic list displayed
-2013 / 12 / 24 21:33:41  :  Topic list displayed
-2013 / 12 / 24 21:34:37  :  Topic list displayed
-2013 / 12 / 24 21:46:10  :  Topic list displayed
-2013 / 12 / 24 21:46:14  :  Topic list displayed
-2013 / 12 / 24 21:47:30  :  Topic list displayed
-2013 / 12 / 24 21:48:07  :  Topic list displayed
-2013 / 12 / 24 21:58:32  :  Topic list displayed
-2013 / 12 / 24 21:58:51  :  Topic list displayed
-2013 / 12 / 24 22:07:21  :  Topic list displayed
-2013 / 12 / 24 22:15:25  :  Topic list displayed
-2013 / 12 / 24 22:16:04  :  Topic list displayed
-2013 / 12 / 24 22:16:32  :  Topic list displayed
-2013 / 12 / 24 22:16:59  :  Topic list displayed
-2013 / 12 / 24 22:30:29  :  User list displayed
-2013 / 12 / 24 22:30:32  :  User list displayed
-2013 / 12 / 24 22:30:59  :  User list displayed
-2013 / 12 / 24 22:31:05  :  Topic list displayed
-2013 / 12 / 24 22:31:06  :  New topic method called
-2013 / 12 / 24 22:31:06  :  New topic form displayed
-2013 / 12 / 24 22:31:10  :  New topic saved successfully
-2013 / 12 / 24 22:31:10  :  Topic list displayed
-2013 / 12 / 24 22:31:41  :  Topic list displayed
-2013 / 12 / 24 23:07:57  :  Topic list displayed
-2013 / 12 / 24 23:12:17  :  Topic list displayed
-2013 / 12 / 24 23:12:57  :  Topic list displayed
-2013 / 12 / 24 23:13:40  :  Topic list displayed
-2013 / 12 / 24 23:14:11  :  Topic list displayed
-2013 / 12 / 24 23:14:29  :  Topic list displayed
-2013 / 12 / 24 23:15:20  :  Topic list displayed
-2013 / 12 / 24 23:15:58  :  Topic list displayed
-2013 / 12 / 24 23:16:22  :  Topic list displayed
-2013 / 12 / 24 23:16:34  :  Topic list displayed
-2013 / 12 / 24 23:17:32  :  User list displayed
-2013 / 12 / 24 23:17:34  :  Topic list displayed
-2013 / 12 / 24 23:19:10  :  User list displayed
-2013 / 12 / 24 23:19:14  :  Topic list displayed
-2013 / 12 / 24 23:19:42  :  Topic list displayed
-2013 / 12 / 24 23:20:44  :  User list displayed
-2013 / 12 / 24 23:20:47  :  New user method called
-2013 / 12 / 24 23:20:47  :  Sign up form displayed
-2013 / 12 / 24 23:21:08  :  New user saved successfully with the following details:
-Email address: teszt@teszt.com
-2013 / 12 / 24 23:21:08  :  User list displayed
-2013 / 12 / 24 23:21:20  :  User list displayed
-2013 / 12 / 24 23:21:23  :  Topic list displayed
-2013 / 12 / 24 23:21:25  :  New topic method called
-2013 / 12 / 24 23:21:25  :  New topic form displayed
-2013 / 12 / 24 23:21:38  :  New topic saved successfully
-2013 / 12 / 24 23:21:38  :  Topic list displayed
-2013 / 12 / 24 23:25:26  :  Topic list displayed
-2013 / 12 / 24 23:29:25  :  Topic list displayed
-2013 / 12 / 24 23:35:24  :  Topic list displayed
-2013 / 12 / 24 23:35:56  :  Topic list displayed
-2013 / 12 / 24 23:38:11  :  Topic list displayed
-2013 / 12 / 24 23:38:41  :  Topic list displayed
-2013 / 12 / 24 23:39:11  :  Topic list displayed
-2013 / 12 / 24 23:39:18  :  Topic list displayed
-2013 / 12 / 24 23:39:34  :  Topic deleted successfully
-2013 / 12 / 24 23:39:34  :  Topic list displayed
-2013 / 12 / 24 23:47:23  :  Topic list displayed
-2013 / 12 / 24 23:47:56  :  User list displayed
-2013 / 12 / 24 23:48:37  :  User list displayed
-2013 / 12 / 24 23:48:44  :  Topic list displayed
-2013 / 12 / 24 23:48:46  :  User list displayed
-2013 / 12 / 24 23:48:48  :  Topic list displayed
-2013 / 12 / 24 23:48:52  :  User list displayed
-2013 / 12 / 24 23:48:53  :  Topic list displayed
-2013 / 12 / 24 23:48:56  :  Topic list displayed
-2013 / 12 / 24 23:48:57  :  User list displayed
-2013 / 12 / 24 23:48:59  :  Topic list displayed
-2013 / 12 / 24 23:49:00  :  User list displayed
-2013 / 12 / 24 23:49:02  :  Topic list displayed
-2013 / 12 / 24 23:50:25  :  Topic list displayed
-2013 / 12 / 24 23:50:28  :  New topic method called
-2013 / 12 / 24 23:50:28  :  New topic form displayed
-2013 / 12 / 24 23:52:41  :  New topic method called
-2013 / 12 / 24 23:52:41  :  New topic form displayed
-2013 / 12 / 24 23:53:51  :  Topic list displayed
-2013 / 12 / 24 23:54:40  :  Topic list displayed
-2013 / 12 / 24 23:54:45  :  Topic list displayed
-2013 / 12 / 24 23:55:26  :  Topic list displayed
-2013 / 12 / 24 23:55:39  :  Topic list displayed
-2013 / 12 / 24 23:55:53  :  User list displayed
-2013 / 12 / 24 23:56:01  :  User list displayed
-2013 / 12 / 24 23:56:33  :  User list displayed
-2013 / 12 / 24 23:57:10  :  User list displayed
-2013 / 12 / 24 23:57:37  :  User list displayed
-2013 / 12 / 24 23:57:56  :  User list displayed
-2013 / 12 / 24 23:58:54  :  User list displayed
-2013 / 12 / 24 23:59:26  :  User list displayed
-2013 / 12 / 24 23:59:43  :  User list displayed
-2013 / 12 / 24 23:59:45  :  User list displayed
-2013 / 12 / 24 23:59:49  :  Topic list displayed
-2013 / 12 / 24 23:59:50  :  User list displayed
-2013 / 12 / 25 00:00:19  :  User list displayed
-2013 / 12 / 25 00:00:49  :  User list displayed
-2013 / 12 / 25 00:01:17  :  User list displayed
-2013 / 12 / 25 00:01:21  :  Topic list displayed
-2013 / 12 / 25 00:01:49  :  Topic list displayed
-2013 / 12 / 25 00:02:09  :  User list displayed
-2013 / 12 / 25 00:02:35  :  User list displayed
-2013 / 12 / 25 17:13:01  :  User list displayed
-2013 / 12 / 25 17:20:33  :  Topic list displayed
-2013 / 12 / 25 17:20:43  :  New topic method called
-2013 / 12 / 25 17:20:43  :  New topic form displayed
-2013 / 12 / 25 17:20:48  :  Topic list displayed
-2013 / 12 / 25 17:22:58  :  Topic list displayed
-2013 / 12 / 25 17:23:02  :  New topic method called
-2013 / 12 / 25 17:23:02  :  New topic form displayed
-2013 / 12 / 25 17:23:04  :  Error while trying to save new topic
-2013 / 12 / 25 17:23:04  :  New topic form displayed
-2013 / 12 / 25 17:25:28  :  Topic list displayed
-2013 / 12 / 25 17:25:31  :  New topic method called
-2013 / 12 / 25 17:25:31  :  New topic form displayed
-2013 / 12 / 25 17:25:35  :  Error while trying to save new topic
-2013 / 12 / 25 17:25:35  :  New topic form displayed
-2013 / 12 / 25 17:25:38  :  Topic list displayed
-2013 / 12 / 25 17:30:04  :  Topic list displayed
-2013 / 12 / 25 17:54:50  :  User list displayed
-2013 / 12 / 25 17:54:53  :  Topic list displayed
-2013 / 12 / 25 18:26:52  :  User list displayed
-2013 / 12 / 25 18:28:01  :  User list displayed
-2013 / 12 / 25 18:36:58  :  Topic list displayed
-2013 / 12 / 25 18:49:36  :  Topic list displayed
-2013 / 12 / 25 18:50:12  :  Topic list displayed
-2013 / 12 / 25 19:01:10  :  Topic list displayed
-2013 / 12 / 25 19:04:36  :  User list displayed
-2013 / 12 / 25 19:04:47  :  Topic list displayed
-2013 / 12 / 25 19:05:03  :  User list displayed
-2013 / 12 / 25 19:05:06  :  Topic list displayed
-2013 / 12 / 25 19:08:02  :  User list displayed
-2013 / 12 / 25 19:08:06  :  Topic list displayed
-2013 / 12 / 25 19:09:22  :  User list displayed
-2013 / 12 / 25 19:09:32  :  User list displayed
-2013 / 12 / 25 19:09:34  :  Topic list displayed
-2013 / 12 / 25 20:21:30  :  New comment saved successfully
-2013 / 12 / 25 20:22:21  :  New comment saved successfully
-2013 / 12 / 25 20:28:07  :  User list displayed
-2013 / 12 / 25 20:28:10  :  Topic list displayed
-2013 / 12 / 25 20:28:21  :  New comment saved successfully
-2013 / 12 / 25 20:29:53  :  Topic list displayed
-2013 / 12 / 25 20:30:06  :  New comment saved successfully
-2013 / 12 / 25 20:43:02  :  User list displayed
-2013 / 12 / 25 20:43:07  :  User list displayed
-2013 / 12 / 25 20:43:16  :  User list displayed
-2013 / 12 / 25 20:43:19  :  Topic list displayed
-2013 / 12 / 25 20:43:26  :  New comment saved successfully
-2013 / 12 / 25 21:10:35  :  New comment saved successfully
-2013 / 12 / 25 21:10:50  :  New comment saved successfully
-2013 / 12 / 25 21:11:12  :  New comment saved successfully
-2013 / 12 / 25 21:15:50  :  Topic list displayed
-2013 / 12 / 25 21:16:15  :  New comment saved successfully
-2013 / 12 / 25 21:16:26  :  User list displayed
-2013 / 12 / 25 21:16:50  :  User list displayed
-2013 / 12 / 25 21:16:54  :  Topic list displayed
-2013 / 12 / 25 21:17:17  :  User list displayed
-2013 / 12 / 25 21:17:36  :  User list displayed
-2013 / 12 / 25 21:17:38  :  Topic list displayed
-2013 / 12 / 25 21:17:54  :  User list displayed
-2013 / 12 / 25 21:18:23  :  User list displayed
-2013 / 12 / 25 21:18:46  :  User list displayed
-2013 / 12 / 25 21:19:14  :  User list displayed
-2013 / 12 / 25 21:19:58  :  Topic list displayed
-2013 / 12 / 25 21:20:03  :  Topic list displayed
-2013 / 12 / 25 21:20:31  :  Topic list displayed
-2013 / 12 / 25 21:22:30  :  New comment saved successfully
-2013 / 12 / 25 22:18:36  :  User list displayed
-2013 / 12 / 25 22:37:03  :  Topic list displayed
-2013 / 12 / 25 22:43:14  :  User list displayed
-2013 / 12 / 25 22:43:20  :  User deleted successfully
-2013 / 12 / 25 22:43:20  :  User list displayed
-2013 / 12 / 25 22:43:35  :  User list displayed
-2013 / 12 / 25 22:43:44  :  User list displayed
-2013 / 12 / 25 22:43:54  :  New user method called
-2013 / 12 / 25 22:43:54  :  Sign up form displayed
-2013 / 12 / 25 22:44:00  :  New user saved successfully with the following details:
+2022 / 10 / 14 14:38:27  :  Topic list displayed
+2022 / 10 / 14 14:38:40  :  New user method called
+2022 / 10 / 14 14:38:40  :  Sign up form displayed
+2022 / 10 / 14 18:53:39  :  Topic list displayed
+2022 / 10 / 14 19:00:02  :  Topic list displayed
+2022 / 10 / 14 19:00:04  :  New user method called
+2022 / 10 / 14 19:00:04  :  Sign up form displayed
+2022 / 10 / 14 19:03:53  :  Topic list displayed
+2022 / 10 / 14 19:03:59  :  Topic list displayed
+2022 / 10 / 14 19:04:30  :  New user method called
+2022 / 10 / 14 19:04:30  :  Sign up form displayed
+2022 / 10 / 14 20:10:29  :  Topic list displayed
+2022 / 10 / 14 20:24:02  :  Topic list displayed
+2022 / 10 / 14 20:24:18  :  New user method called
+2022 / 10 / 14 20:24:18  :  Sign up form displayed
+2022 / 10 / 14 21:45:52  :  Topic list displayed
+2022 / 10 / 14 22:13:17  :  Topic list displayed
+2022 / 10 / 14 22:13:22  :  New user method called
+2022 / 10 / 14 22:13:22  :  Sign up form displayed
+2022 / 10 / 14 22:13:39  :  New user method called
+2022 / 10 / 14 22:13:39  :  Sign up form displayed
+2022 / 10 / 14 22:19:17  :  Topic list displayed
+2022 / 10 / 14 22:19:19  :  New user method called
+2022 / 10 / 14 22:19:19  :  Sign up form displayed
+2022 / 10 / 14 22:19:21  :  New user method called
+2022 / 10 / 14 22:19:21  :  Sign up form displayed
+2022 / 10 / 14 22:19:49  :  New user method called
+2022 / 10 / 14 22:19:49  :  Sign up form displayed
+2022 / 10 / 14 22:20:02  :  Topic list displayed
+2022 / 10 / 14 22:20:04  :  New user method called
+2022 / 10 / 14 22:20:04  :  Sign up form displayed
+2022 / 10 / 14 22:20:11  :  Topic list displayed
+2022 / 10 / 14 22:22:13  :  Topic list displayed
+2022 / 10 / 14 22:22:14  :  New user method called
+2022 / 10 / 14 22:22:14  :  Sign up form displayed
+2022 / 10 / 14 22:22:16  :  Topic list displayed
+2022 / 10 / 14 22:23:05  :  Topic list displayed
+2022 / 10 / 14 22:23:06  :  New user method called
+2022 / 10 / 14 22:23:06  :  Sign up form displayed
+2022 / 10 / 20 11:25:13  :  New user method called
+2022 / 10 / 20 11:25:13  :  Sign up form displayed
+2022 / 10 / 20 11:25:38  :  Topic list displayed
+2022 / 10 / 20 11:25:42  :  New user method called
+2022 / 10 / 20 11:25:42  :  Sign up form displayed
+2022 / 10 / 20 11:44:26  :  New user method called
+2022 / 10 / 20 11:44:26  :  Sign up form displayed
+2022 / 10 / 20 12:04:10  :  New user method called
+2022 / 10 / 20 12:04:10  :  Sign up form displayed
+2022 / 10 / 20 12:08:15  :  Topic list displayed
+2022 / 10 / 20 12:08:17  :  New user method called
+2022 / 10 / 20 12:08:17  :  Sign up form displayed
+2022 / 10 / 20 12:08:26  :  Error while trying to save new user
+2022 / 10 / 20 12:08:26  :  Sign up form displayed
+2022 / 10 / 20 12:08:33  :  Error while trying to save new user
+2022 / 10 / 20 12:08:33  :  Sign up form displayed
+2022 / 10 / 20 12:09:12  :  Error while trying to save new user
+2022 / 10 / 20 12:09:12  :  Sign up form displayed
+2022 / 10 / 20 12:10:44  :  New user saved successfully with the following details:
+Email address: aysyxcyx@yxcyxc.com
+2022 / 10 / 20 12:10:57  :  New user method called
+2022 / 10 / 20 12:10:57  :  Sign up form displayed
+2022 / 10 / 20 12:11:08  :  New user saved successfully with the following details:
+Email address: dsdfsddfs@sdsddc.hu
+2022 / 10 / 20 12:15:18  :  New user method called
+2022 / 10 / 20 12:15:18  :  Sign up form displayed
+2022 / 10 / 20 12:15:23  :  New user saved successfully with the following details:
 Email address: a
-2013 / 12 / 25 22:44:00  :  User list displayed
-2013 / 12 / 25 22:44:06  :  Topic list displayed
-2014 / 05 / 14 18:34:09  :  User list displayed
-2014 / 05 / 14 18:34:17  :  Topic list displayed
-2014 / 05 / 14 18:35:04  :  New comment saved successfully
-2014 / 05 / 14 18:35:27  :  User list displayed
-2014 / 05 / 14 18:35:48  :  User list displayed
-2014 / 05 / 14 18:35:55  :  User list displayed
-2014 / 05 / 14 18:36:05  :  User list displayed
-2014 / 05 / 14 18:36:11  :  Topic list displayed
-2014 / 05 / 14 18:46:24  :  User list displayed
-2014 / 05 / 14 18:46:31  :  User list displayed
-2014 / 05 / 14 18:46:36  :  User list displayed
-2014 / 05 / 14 18:46:38  :  Topic list displayed
-2014 / 05 / 14 18:46:40  :  New topic method called
-2014 / 05 / 14 18:46:40  :  New topic form displayed
-2014 / 05 / 14 18:46:48  :  New topic saved successfully
-2014 / 05 / 14 18:46:48  :  Topic list displayed
-2014 / 05 / 14 20:26:34  :  New comment saved successfully
-2014 / 05 / 14 20:26:40  :  New comment saved successfully
-2014 / 05 / 14 20:26:47  :  New comment saved successfully
-2014 / 05 / 14 20:26:53  :  New comment saved successfully
-2014 / 05 / 14 20:27:06  :  New comment saved successfully
-2014 / 05 / 14 20:27:38  :  New comment saved successfully
-2014 / 05 / 14 20:32:49  :  Topic list displayed
-2014 / 05 / 14 20:32:52  :  User list displayed
-2014 / 05 / 14 20:32:59  :  User list displayed
-2014 / 05 / 14 20:33:01  :  Topic list displayed
-2014 / 05 / 14 20:59:53  :  Topic list displayed
-2014 / 05 / 14 20:59:54  :  User list displayed
-2014 / 05 / 14 21:00:51  :  Topic list displayed
-2014 / 05 / 14 21:01:25  :  New comment saved successfully
-2014 / 05 / 14 21:11:41  :  Topic list displayed
-2014 / 05 / 14 21:13:45  :  Topic list displayed
-2014 / 05 / 14 21:14:22  :  Topic list displayed
-2014 / 05 / 14 21:15:59  :  Topic list displayed
-2014 / 05 / 14 21:16:09  :  New comment saved successfully
-2014 / 05 / 14 21:16:13  :  Topic list displayed
-2014 / 05 / 14 21:20:44  :  Topic list displayed
-2014 / 05 / 14 21:20:46  :  User list displayed
-2014 / 05 / 14 21:22:31  :  User list displayed
-2014 / 05 / 14 21:28:31  :  User list displayed
-2014 / 05 / 14 21:28:56  :  User list displayed
-2014 / 05 / 14 21:29:01  :  User list displayed
-2014 / 05 / 14 21:29:41  :  User list displayed
-2014 / 05 / 14 21:29:43  :  Topic list displayed
-2014 / 05 / 14 21:31:05  :  Topic list displayed
-2014 / 05 / 14 21:31:06  :  User list displayed
-2014 / 05 / 15 19:57:56  :  User list displayed
-2014 / 05 / 16 20:40:04  :  User list displayed
-2014 / 05 / 16 21:21:47  :  User list displayed
-2014 / 05 / 16 21:21:53  :  Topic list displayed
-2014 / 05 / 16 21:21:57  :  User list displayed
-2014 / 05 / 16 21:22:21  :  User list displayed
-2014 / 05 / 16 21:22:23  :  Topic list displayed
-2014 / 05 / 16 21:22:25  :  User list displayed
-2014 / 05 / 16 21:51:23  :  User list displayed
-2014 / 05 / 16 21:51:47  :  User list displayed
-2014 / 05 / 16 21:53:16  :  User list displayed
-2014 / 05 / 16 21:53:48  :  User list displayed
-2014 / 05 / 16 21:57:34  :  Topic list displayed
-2014 / 05 / 16 21:57:38  :  User list displayed
-2014 / 05 / 16 21:57:40  :  New user method called
-2014 / 05 / 16 21:57:40  :  Sign up form displayed
-2014 / 05 / 16 21:57:48  :  New user method called
-2014 / 05 / 16 21:57:48  :  Sign up form displayed
-2014 / 05 / 16 21:58:06  :  User list displayed
-2014 / 05 / 16 21:58:09  :  Topic list displayed
-2014 / 05 / 16 22:09:02  :  User list displayed
-2014 / 05 / 16 22:09:17  :  User list displayed
-2014 / 05 / 16 22:09:19  :  Topic list displayed
-2014 / 05 / 16 22:09:29  :  New comment saved successfully
-2014 / 05 / 16 22:09:33  :  Topic list displayed
-2014 / 05 / 16 22:09:49  :  User list displayed
-2014 / 05 / 16 22:09:51  :  User list displayed
-2014 / 05 / 16 22:18:35  :  User list displayed
-2014 / 05 / 16 22:19:41  :  Topic list displayed
-2014 / 05 / 17 11:58:38  :  User list displayed
-2014 / 05 / 17 11:58:58  :  User list displayed
-2014 / 05 / 17 11:59:17  :  User list displayed
-2014 / 05 / 17 11:59:28  :  User list displayed
-2014 / 05 / 17 11:59:56  :  Topic list displayed
-2014 / 05 / 17 12:00:33  :  Topic list displayed
-2014 / 05 / 17 12:02:20  :  Topic list displayed
-2014 / 05 / 17 12:05:32  :  Topic list displayed
-2014 / 05 / 17 12:06:05  :  Topic list displayed
-2014 / 05 / 17 12:06:31  :  Topic list displayed
-2014 / 05 / 17 12:06:41  :  Topic list displayed
-2014 / 05 / 17 12:06:47  :  Topic list displayed
-2014 / 05 / 17 12:06:54  :  Topic list displayed
-2014 / 05 / 17 12:09:17  :  Topic list displayed
-2014 / 05 / 17 12:09:24  :  Topic list displayed
-2014 / 05 / 17 12:09:42  :  Topic list displayed
-2014 / 05 / 17 12:16:46  :  New comment saved successfully
-2014 / 05 / 17 12:16:55  :  New comment saved successfully
-2014 / 05 / 17 12:23:08  :  New comment saved successfully
-2014 / 05 / 17 12:23:13  :  Error while trying to save new comment
-2014 / 05 / 17 12:25:06  :  Error while trying to save new comment
-2014 / 05 / 17 12:30:55  :  New comment saved successfully
-2014 / 05 / 17 12:30:59  :  Error while trying to save new comment
-2014 / 05 / 17 12:31:13  :  Error while trying to save new comment
-2014 / 05 / 17 12:31:26  :  New comment saved successfully
-2014 / 05 / 17 12:31:30  :  Error while trying to save new comment
-2014 / 05 / 17 12:53:59  :  Error while trying to save new comment
-2014 / 05 / 17 12:54:09  :  Error while trying to save new comment
-2014 / 05 / 17 12:54:25  :  New comment saved successfully
-2014 / 05 / 17 12:54:29  :  Error while trying to save new comment
-2014 / 05 / 17 12:54:43  :  New comment saved successfully
-2014 / 05 / 17 12:55:09  :  Topic list displayed
-2014 / 05 / 17 12:55:18  :  Topic list displayed
-2014 / 05 / 17 13:23:39  :  Topic list displayed
-2014 / 05 / 17 13:28:43  :  Topic list displayed
-2014 / 05 / 17 13:50:26  :  Topic list displayed
-2014 / 05 / 17 13:50:57  :  Topic list displayed
-2014 / 05 / 17 13:55:52  :  Topic list displayed
-2014 / 05 / 17 13:56:10  :  Topic list displayed
-2014 / 05 / 17 14:04:19  :  Topic list displayed
-2014 / 05 / 17 14:05:26  :  Topic list displayed
-2014 / 05 / 17 14:05:47  :  Topic list displayed
-2014 / 05 / 17 14:07:02  :  Topic list displayed
-2014 / 05 / 17 14:08:34  :  Topic list displayed
-2014 / 05 / 17 14:09:55  :  Topic list displayed
-2014 / 05 / 17 14:14:25  :  Topic list displayed
-2014 / 05 / 17 14:16:08  :  Topic list displayed
-2014 / 05 / 17 14:16:18  :  Topic list displayed
-2014 / 05 / 17 14:19:35  :  User list displayed
-2014 / 05 / 17 14:19:51  :  Topic list displayed
-2014 / 05 / 17 14:22:22  :  Topic list displayed
-2014 / 05 / 17 14:41:40  :  Topic list displayed
-2014 / 05 / 17 14:43:06  :  Topic list displayed
-2014 / 05 / 17 14:43:27  :  Topic list displayed
-2014 / 05 / 17 14:44:36  :  Topic list displayed
-2014 / 05 / 17 14:45:00  :  Topic list displayed
-2014 / 05 / 17 14:45:43  :  Topic list displayed
-2014 / 05 / 17 14:47:42  :  Topic list displayed
-2014 / 05 / 17 14:47:57  :  User list displayed
-2014 / 05 / 17 14:48:14  :  User list displayed
-2014 / 05 / 17 14:49:12  :  User list displayed
-2014 / 05 / 17 14:49:46  :  User list displayed
-2014 / 05 / 17 14:51:07  :  User list displayed
-2014 / 05 / 17 14:51:18  :  User list displayed
-2014 / 05 / 17 14:51:47  :  User list displayed
-2014 / 05 / 17 14:52:00  :  User list displayed
-2014 / 05 / 17 14:52:10  :  Topic list displayed
-2014 / 05 / 17 14:52:17  :  User list displayed
-2014 / 05 / 17 14:52:20  :  Topic list displayed
-2014 / 05 / 17 14:52:26  :  User list displayed
-2014 / 05 / 17 14:52:29  :  Topic list displayed
-2014 / 05 / 17 14:53:36  :  Topic list displayed
-2014 / 05 / 17 14:53:44  :  User list displayed
-2014 / 05 / 17 14:53:47  :  Topic list displayed
-2014 / 05 / 17 14:54:17  :  Topic list displayed
-2014 / 05 / 17 14:54:22  :  User list displayed
-2014 / 05 / 17 14:54:25  :  Topic list displayed
-2014 / 05 / 17 14:55:04  :  Topic list displayed
-2014 / 05 / 17 14:55:18  :  User list displayed
-2014 / 05 / 17 14:55:21  :  Topic list displayed
-2014 / 05 / 17 14:55:24  :  User list displayed
-2014 / 05 / 17 14:56:04  :  User list displayed
-2014 / 05 / 17 14:56:06  :  Topic list displayed
-2014 / 05 / 17 14:58:50  :  User list displayed
-2014 / 05 / 17 14:58:57  :  Topic list displayed
-2014 / 05 / 17 15:11:41  :  Topic list displayed
-2014 / 05 / 17 15:11:48  :  Topic list displayed
-2014 / 05 / 17 15:12:03  :  User list displayed
-2014 / 05 / 17 15:12:16  :  Topic list displayed
-2014 / 05 / 17 15:13:14  :  Topic list displayed
-2014 / 05 / 17 15:13:18  :  User list displayed
-2014 / 05 / 17 15:13:41  :  User list displayed
-2014 / 05 / 17 15:13:45  :  Topic list displayed
-2014 / 05 / 17 15:18:32  :  User list displayed
-2014 / 05 / 17 15:24:58  :  User list displayed
-2014 / 05 / 17 15:26:29  :  Topic list displayed
-2014 / 05 / 17 15:26:39  :  Topic list displayed
-2014 / 05 / 17 15:28:15  :  User list displayed
-2014 / 05 / 17 15:28:25  :  Topic list displayed
-2014 / 05 / 17 15:35:57  :  User list displayed
-2014 / 05 / 17 15:35:58  :  Topic list displayed
-2014 / 05 / 17 15:36:05  :  Topic list displayed
-2014 / 05 / 17 15:52:50  :  User list displayed
-2014 / 05 / 17 15:52:58  :  Topic list displayed
-2014 / 05 / 17 15:54:10  :  User list displayed
-2014 / 05 / 17 16:09:19  :  User list displayed
-2014 / 05 / 17 16:09:27  :  Topic list displayed
-2014 / 05 / 17 16:09:32  :  User list displayed
-2014 / 05 / 17 16:10:03  :  User list displayed
-2014 / 05 / 17 16:10:13  :  User list displayed
-2014 / 05 / 17 16:10:18  :  Topic list displayed
-2014 / 05 / 17 16:10:37  :  User list displayed
-2014 / 05 / 17 16:38:28  :  Topic list displayed
-2014 / 05 / 17 16:38:48  :  Topic list displayed
-2014 / 05 / 17 16:49:03  :  User list displayed
-2014 / 05 / 17 16:49:08  :  Topic list displayed
-2014 / 05 / 17 16:49:11  :  User list displayed
-2014 / 05 / 17 16:50:14  :  Topic list displayed
-2014 / 05 / 17 16:50:23  :  Topic list displayed
-2014 / 05 / 17 16:50:43  :  Topic list displayed
-2014 / 05 / 17 16:50:53  :  User list displayed
-2014 / 05 / 17 16:50:56  :  Topic list displayed
-2014 / 05 / 17 16:52:38  :  User list displayed
-2014 / 05 / 17 16:52:47  :  Topic list displayed
-2014 / 05 / 17 16:53:02  :  Topic list displayed
-2014 / 05 / 17 16:54:43  :  User list displayed
-2014 / 05 / 17 16:55:10  :  User list displayed
-2014 / 05 / 17 16:55:32  :  User list displayed
-2014 / 05 / 17 16:55:57  :  User list displayed
-2014 / 05 / 17 16:56:20  :  User list displayed
-2014 / 05 / 17 16:56:53  :  User list displayed
-2014 / 05 / 17 16:57:28  :  User list displayed
-2014 / 05 / 17 16:57:49  :  User list displayed
-2014 / 05 / 17 16:58:06  :  User list displayed
-2014 / 05 / 17 16:58:28  :  User list displayed
-2014 / 05 / 17 16:58:56  :  User list displayed
-2014 / 05 / 17 17:00:04  :  User list displayed
-2014 / 05 / 17 17:00:37  :  User list displayed
-2014 / 05 / 17 17:01:03  :  User list displayed
-2014 / 05 / 17 17:01:19  :  User list displayed
-2014 / 05 / 17 17:01:37  :  User list displayed
-2014 / 05 / 17 17:01:53  :  User list displayed
-2014 / 05 / 17 17:02:23  :  User list displayed
-2014 / 05 / 17 17:02:29  :  Topic list displayed
-2014 / 05 / 17 17:02:31  :  User list displayed
-2014 / 05 / 17 17:02:39  :  User list displayed
-2014 / 05 / 17 17:02:41  :  Topic list displayed
-2014 / 05 / 17 17:04:42  :  User list displayed
-2014 / 05 / 17 17:04:58  :  User list displayed
-2014 / 05 / 17 17:05:14  :  User list displayed
-2014 / 05 / 17 17:05:42  :  User list displayed
-2014 / 05 / 17 17:07:36  :  User list displayed
-2014 / 05 / 17 17:07:59  :  User list displayed
-2014 / 05 / 17 17:08:29  :  User list displayed
-2014 / 05 / 17 17:10:15  :  User list displayed
-2014 / 05 / 17 17:10:38  :  User list displayed
-2014 / 05 / 17 17:11:06  :  User list displayed
-2014 / 05 / 17 17:11:30  :  User list displayed
-2014 / 05 / 17 17:12:33  :  User list displayed
-2014 / 05 / 17 17:12:47  :  User list displayed
-2014 / 05 / 17 17:13:02  :  User list displayed
-2014 / 05 / 17 17:13:06  :  User list displayed
-2014 / 05 / 17 17:13:16  :  User list displayed
-2014 / 05 / 17 17:14:00  :  User list displayed
-2014 / 05 / 17 17:14:15  :  User list displayed
-2014 / 05 / 17 17:14:38  :  User list displayed
-2014 / 05 / 17 17:15:07  :  User list displayed
-2014 / 05 / 17 17:15:40  :  User list displayed
-2014 / 05 / 17 17:15:55  :  Topic list displayed
-2014 / 05 / 17 17:16:55  :  Topic list displayed
-2014 / 05 / 17 17:25:44  :  User list displayed
-2014 / 05 / 17 17:28:33  :  User list displayed
-2014 / 05 / 17 17:28:50  :  User list displayed
-2014 / 05 / 17 17:30:01  :  User list displayed
-2014 / 05 / 17 17:36:45  :  User list displayed
-2014 / 05 / 17 17:37:39  :  User list displayed
-2014 / 05 / 17 17:38:03  :  User list displayed
-2014 / 05 / 17 17:38:26  :  User list displayed
-2014 / 05 / 17 17:40:19  :  User list displayed
-2014 / 05 / 17 17:41:24  :  Topic list displayed
-2014 / 05 / 17 17:41:40  :  User list displayed
-2014 / 05 / 17 17:42:55  :  User list displayed
-2014 / 05 / 17 17:52:38  :  User list displayed
-2014 / 05 / 17 17:53:52  :  User list displayed
-2014 / 05 / 17 17:55:28  :  User list displayed
-2014 / 05 / 17 17:56:18  :  User list displayed
-2014 / 05 / 17 17:57:38  :  User list displayed
-2014 / 05 / 17 18:00:02  :  User list displayed
-2014 / 05 / 17 18:02:20  :  User list displayed
-2014 / 05 / 17 18:03:03  :  User list displayed
-2014 / 05 / 17 18:03:30  :  User list displayed
-2014 / 05 / 17 18:04:58  :  User list displayed
-2014 / 05 / 17 18:05:27  :  Topic list displayed
-2014 / 05 / 17 18:05:29  :  User list displayed
-2014 / 05 / 17 18:05:31  :  Topic list displayed
-2014 / 05 / 17 18:05:38  :  Topic list displayed
-2014 / 05 / 17 18:06:14  :  Topic list displayed
-2014 / 05 / 17 18:06:17  :  User list displayed
-2014 / 05 / 17 18:06:32  :  Topic list displayed
-2014 / 05 / 17 18:38:11  :  User list displayed
-2014 / 05 / 17 18:38:22  :  Topic list displayed
-2014 / 05 / 17 18:39:48  :  User list displayed
-2014 / 05 / 17 18:39:54  :  Topic list displayed
-2014 / 05 / 17 18:40:02  :  Topic list displayed
-2014 / 05 / 17 18:42:55  :  Topic list displayed
-2014 / 05 / 17 18:47:12  :  Topic list displayed
-2014 / 05 / 17 18:48:41  :  New comment saved successfully
-2014 / 05 / 17 18:51:07  :  New comment saved successfully
-2014 / 05 / 17 19:01:10  :  Topic list displayed
-2014 / 05 / 17 20:57:02  :  Topic list displayed
-2014 / 05 / 19 22:27:02  :  User list displayed
-2014 / 05 / 21 18:05:13  :  User list displayed
-2014 / 05 / 21 18:46:20  :  User list displayed
-2014 / 05 / 21 18:46:26  :  Topic list displayed
-2014 / 05 / 21 18:46:51  :  Topic list displayed
-2014 / 05 / 21 18:51:07  :  User list displayed
-2014 / 05 / 21 18:55:43  :  Topic list displayed
-2014 / 05 / 21 18:56:40  :  Topic list displayed
-2014 / 05 / 21 18:57:17  :  Topic list displayed
-2014 / 05 / 21 18:57:58  :  User list displayed
-2014 / 05 / 21 18:58:06  :  Topic list displayed
-2014 / 05 / 21 19:06:10  :  User list displayed
-2014 / 05 / 21 19:06:11  :  New user method called
-2014 / 05 / 21 19:06:11  :  Sign up form displayed
-2014 / 05 / 21 19:06:29  :  New user saved successfully with the following details:
-Email address: s@s.s
-2014 / 05 / 21 19:06:29  :  User list displayed
-2014 / 05 / 21 19:06:44  :  User list displayed
-2014 / 05 / 21 19:07:11  :  User list displayed
-2014 / 05 / 21 19:07:34  :  User list displayed
-2014 / 05 / 21 19:09:04  :  User list displayed
-2014 / 05 / 21 19:09:06  :  Topic list displayed
-2014 / 05 / 21 19:09:28  :  Topic list displayed
-2014 / 05 / 21 19:09:32  :  User list displayed
-2014 / 05 / 21 19:16:23  :  User list displayed
-2014 / 05 / 21 19:17:19  :  User list displayed
-2014 / 06 / 01 16:29:33  :  User list displayed
-2014 / 06 / 01 16:31:10  :  User list displayed
-2014 / 06 / 08 10:51:45  :  User list displayed
-2014 / 06 / 08 10:53:07  :  User list displayed
-2014 / 08 / 17 14:19:08  :  User list displayed
-2014 / 08 / 17 14:19:57  :  Topic list displayed
-2014 / 08 / 17 14:20:03  :  Topic list displayed
-2014 / 08 / 17 14:21:32  :  Topic list displayed
-2014 / 08 / 17 14:21:43  :  User list displayed
-2014 / 08 / 17 14:22:01  :  User list displayed
-2014 / 08 / 17 14:28:32  :  Topic list displayed
-2014 / 08 / 17 14:28:42  :  New comment saved successfully
-2014 / 08 / 17 14:28:49  :  User list displayed
-2014 / 08 / 17 14:28:53  :  New user method called
-2014 / 08 / 17 14:28:53  :  Sign up form displayed
-2014 / 08 / 17 14:29:06  :  User list displayed
-2014 / 08 / 17 14:29:20  :  Topic list displayed
-2014 / 08 / 17 14:29:24  :  User list displayed
-2014 / 08 / 17 14:29:26  :  Topic list displayed
-2014 / 08 / 17 14:29:31  :  User list displayed
-2014 / 10 / 19 19:16:49  :  User list displayed
-2014 / 10 / 19 19:17:40  :  Topic list displayed
-2014 / 10 / 19 19:20:27  :  User list displayed
-2014 / 10 / 19 19:20:33  :  User list displayed
-2014 / 10 / 19 19:20:35  :  Topic list displayed
-2014 / 10 / 19 19:21:14  :  New comment saved successfully
-2014 / 10 / 19 19:21:40  :  Error while trying to save new comment
-2014 / 10 / 19 19:24:14  :  User list displayed
-2014 / 10 / 19 19:24:24  :  Topic list displayed
-2014 / 10 / 19 19:25:51  :  Topic list displayed
-2014 / 10 / 19 19:26:30  :  New topic method called
-2014 / 10 / 19 19:26:30  :  New topic form displayed
-2014 / 10 / 19 19:26:43  :  Error while trying to save new topic
-2014 / 10 / 19 19:26:44  :  New topic form displayed
-2014 / 10 / 19 19:26:50  :  Topic list displayed
-2014 / 10 / 19 19:27:02  :  User list displayed
-2014 / 10 / 19 19:27:09  :  User list displayed
-2014 / 10 / 19 19:27:14  :  User list displayed
-2014 / 10 / 19 19:27:20  :  User list displayed
-2014 / 10 / 19 19:27:23  :  Topic list displayed
-2014 / 10 / 19 19:33:23  :  New comment saved successfully
-2014 / 10 / 19 19:33:34  :  Topic list displayed
-2014 / 10 / 19 19:36:03  :  Topic list displayed
-2014 / 10 / 19 19:36:19  :  User list displayed
-2014 / 10 / 19 19:36:21  :  Topic list displayed
-2014 / 10 / 19 20:10:25  :  User list displayed
-2014 / 10 / 19 20:10:29  :  Topic list displayed
-2014 / 10 / 19 20:10:39  :  User list displayed
-2014 / 10 / 19 20:10:42  :  Topic list displayed
-2014 / 10 / 19 20:11:35  :  User list displayed
-2014 / 10 / 19 20:11:37  :  Topic list displayed
-2014 / 10 / 19 20:12:13  :  New comment saved successfully
-2014 / 10 / 19 20:12:22  :  Topic list displayed
-2014 / 10 / 19 20:12:34  :  User list displayed
-2014 / 10 / 19 20:12:36  :  Topic list displayed
-2014 / 10 / 19 20:20:09  :  New user method called
-2014 / 10 / 19 20:20:09  :  Sign up form displayed
-2014 / 10 / 19 20:20:14  :  User list displayed
-2014 / 10 / 19 20:20:33  :  User list displayed
-2014 / 10 / 19 20:20:37  :  Topic list displayed
-2014 / 10 / 19 20:20:42  :  New topic method called
-2014 / 10 / 19 20:20:42  :  New topic form displayed
-2014 / 10 / 19 20:20:45  :  Topic list displayed
-2014 / 10 / 19 20:21:45  :  Topic list displayed
-2014 / 10 / 19 20:21:57  :  User list displayed
-2014 / 10 / 19 20:22:03  :  Topic list displayed
-2014 / 10 / 19 20:22:11  :  User list displayed
-2014 / 10 / 19 20:22:15  :  Topic list displayed
-2014 / 10 / 19 20:22:25  :  User list displayed
-2014 / 10 / 19 20:22:28  :  Topic list displayed
-2014 / 10 / 19 20:23:33  :  Topic list displayed
-2014 / 10 / 19 20:23:52  :  User list displayed
-2014 / 10 / 19 20:23:55  :  Topic list displayed
-2014 / 10 / 20 20:14:54  :  User list displayed
-2014 / 10 / 20 20:45:46  :  User list displayed
-2014 / 10 / 20 20:45:56  :  User list displayed
-2014 / 10 / 20 20:45:58  :  User list displayed
-2014 / 10 / 20 21:09:44  :  User list displayed
-2014 / 10 / 20 21:29:54  :  User list displayed
-2014 / 10 / 20 21:34:12  :  User list displayed
-2014 / 10 / 20 21:40:12  :  User list displayed
-2014 / 10 / 20 21:45:47  :  User list displayed
-2014 / 10 / 20 21:56:48  :  User list displayed
-2014 / 10 / 20 21:57:11  :  User list displayed
-2014 / 10 / 20 21:57:16  :  User list displayed
-2014 / 10 / 20 21:57:31  :  User list displayed
-2014 / 10 / 20 21:59:29  :  User list displayed
-2014 / 10 / 20 21:59:45  :  User list displayed
-2014 / 10 / 20 22:26:30  :  Topic list displayed
-2014 / 10 / 20 22:26:44  :  New comment saved successfully
-2014 / 10 / 20 22:27:08  :  New comment saved successfully
-2014 / 10 / 20 22:29:07  :  Topic list displayed
-2014 / 10 / 20 22:30:35  :  Topic list displayed
-2014 / 10 / 27 20:09:32  :  User list displayed
-2014 / 10 / 27 20:10:44  :  User list displayed
-2014 / 10 / 27 20:10:47  :  Topic list displayed
-2014 / 10 / 27 20:12:53  :  User list displayed
-2014 / 10 / 27 20:35:19  :  User list displayed
-2014 / 10 / 27 21:03:26  :  User list displayed
-2014 / 10 / 27 21:06:18  :  User list displayed
-2014 / 10 / 27 21:09:56  :  User list displayed
-2014 / 10 / 27 21:10:19  :  User list displayed
-2014 / 10 / 27 21:13:52  :  User list displayed
-2014 / 10 / 27 21:18:23  :  User list displayed
-2014 / 10 / 27 21:18:26  :  Topic list displayed
-2014 / 10 / 27 21:18:50  :  Topic list displayed
-2014 / 10 / 27 22:26:38  :  User list displayed
-2014 / 10 / 28 21:43:34  :  User list displayed
-2014 / 10 / 28 21:44:30  :  User list displayed
-2014 / 10 / 28 21:46:30  :  New user method called
-2014 / 10 / 28 21:46:31  :  Sign up form displayed
-2014 / 10 / 28 21:46:58  :  New user saved successfully with the following details:
-Email address: a@a.a
-2014 / 10 / 28 21:46:58  :  User list displayed
-2014 / 10 / 28 21:47:15  :  User list displayed
-2014 / 10 / 28 22:01:09  :  User list displayed
-2014 / 10 / 28 22:01:21  :  User list displayed
-2014 / 10 / 28 22:01:25  :  New user method called
-2014 / 10 / 28 22:01:25  :  Sign up form displayed
-2014 / 10 / 28 22:01:37  :  New user saved successfully with the following details:
-Email address: c@c.c
-2014 / 10 / 28 22:01:37  :  User list displayed
-2014 / 10 / 28 22:01:51  :  User list displayed
-2014 / 10 / 28 22:03:02  :  User deleted successfully
-2014 / 10 / 28 22:03:02  :  User list displayed
-2014 / 10 / 28 22:30:00  :  User list displayed
-2014 / 10 / 28 22:30:38  :  User list displayed
-2014 / 10 / 28 22:31:25  :  User list displayed
-2014 / 10 / 28 22:52:42  :  User list displayed
-2014 / 10 / 28 22:53:00  :  User list displayed
-2014 / 10 / 28 22:53:15  :  User list displayed
-2014 / 10 / 28 22:53:24  :  User list displayed
-2014 / 10 / 28 22:54:39  :  User list displayed
-2014 / 10 / 28 22:54:50  :  User list displayed
-2014 / 10 / 28 22:55:41  :  User list displayed
-2014 / 10 / 28 23:01:36  :  New user method called
-2014 / 10 / 28 23:01:36  :  Sign up form displayed
-2014 / 10 / 30 19:14:03  :  User list displayed
-2014 / 10 / 30 19:14:08  :  Topic list displayed
-2014 / 10 / 30 19:15:23  :  Topic list displayed
-2014 / 10 / 30 19:46:39  :  Topic list displayed
-2014 / 10 / 30 19:47:26  :  Topic list displayed
-2014 / 10 / 30 20:40:07  :  Topic list displayed
-2014 / 10 / 30 21:13:25  :  Topic list displayed
-2014 / 10 / 30 21:13:48  :  Topic list displayed
-2014 / 10 / 30 21:15:52  :  Topic list displayed
-2014 / 10 / 30 21:16:23  :  Topic list displayed
-2014 / 10 / 30 21:17:19  :  Topic list displayed
-2014 / 10 / 30 21:18:34  :  Topic list displayed
-2014 / 10 / 30 21:18:54  :  Topic list displayed
-2014 / 10 / 30 21:19:18  :  Topic list displayed
-2014 / 10 / 30 21:20:26  :  Topic list displayed
-2014 / 10 / 30 21:20:40  :  Topic list displayed
-2014 / 10 / 30 21:23:35  :  Topic list displayed
-2014 / 10 / 30 21:23:54  :  Topic list displayed
-2014 / 10 / 30 21:24:16  :  Topic list displayed
-2014 / 10 / 30 21:24:37  :  Topic list displayed
-2014 / 10 / 30 21:29:52  :  User list displayed
-2014 / 10 / 30 21:29:59  :  Topic list displayed
-2014 / 10 / 30 21:30:29  :  User list displayed
-2014 / 10 / 30 21:30:48  :  Topic list displayed
-2014 / 10 / 30 21:32:24  :  Topic list displayed
-2014 / 10 / 30 21:32:53  :  Topic list displayed
-2014 / 10 / 30 21:33:46  :  User list displayed
-2014 / 10 / 30 21:33:57  :  Topic list displayed
-2014 / 10 / 30 21:35:44  :  User list displayed
-2014 / 10 / 30 21:35:47  :  Topic list displayed
-2014 / 10 / 30 21:46:36  :  Topic list displayed
-2014 / 10 / 30 21:48:49  :  Topic list displayed
-2014 / 10 / 30 22:32:56  :  Topic list displayed
-2014 / 10 / 30 23:03:53  :  Topic list displayed
-2014 / 10 / 30 23:04:05  :  Topic list displayed
-2014 / 10 / 30 23:06:35  :  Topic list displayed
-2014 / 10 / 30 23:06:44  :  Topic list displayed
-2014 / 10 / 30 23:07:59  :  Topic list displayed
-2014 / 10 / 30 23:08:09  :  Topic list displayed
-2014 / 10 / 30 23:08:16  :  Topic list displayed
-2014 / 10 / 30 23:08:23  :  Topic list displayed
-2014 / 10 / 30 23:08:52  :  Topic list displayed
-2014 / 10 / 30 23:09:40  :  Topic list displayed
-2014 / 10 / 30 23:09:50  :  New topic method called
-2014 / 10 / 30 23:09:50  :  New topic form displayed
-2014 / 10 / 30 23:10:13  :  New topic saved successfully
-2014 / 10 / 30 23:10:13  :  Topic list displayed
-2014 / 10 / 30 23:10:50  :  Topic deleted successfully
-2014 / 10 / 30 23:10:50  :  Topic list displayed
-2014 / 10 / 30 23:15:14  :  Topic list displayed
-2014 / 10 / 30 23:15:21  :  Topic list displayed
-2014 / 10 / 30 23:15:32  :  New user method called
-2014 / 10 / 30 23:15:32  :  Sign up form displayed
-2014 / 10 / 30 23:15:38  :  New user saved successfully with the following details:
-Email address: s
-2014 / 10 / 30 23:19:05  :  New user method called
-2014 / 10 / 30 23:19:05  :  Sign up form displayed
-2014 / 10 / 30 23:19:10  :  New user saved successfully with the following details:
+2022 / 10 / 20 12:15:36  :  Topic list displayed
+2022 / 10 / 20 12:15:38  :  New topic method called
+2022 / 10 / 20 12:15:38  :  New topic form displayed
+2022 / 10 / 20 12:18:49  :  New topic saved successfully
+2022 / 10 / 20 12:18:49  :  Topic list displayed
+2022 / 10 / 20 12:19:16  :  Topic list displayed
+2022 / 10 / 20 12:28:13  :  Topic list displayed
+2022 / 10 / 20 12:32:40  :  Topic list displayed
+2022 / 10 / 20 12:33:03  :  Topic list displayed
+2022 / 10 / 20 12:33:33  :  Topic list displayed
+2022 / 10 / 20 12:33:39  :  New topic method called
+2022 / 10 / 20 12:33:39  :  New topic form displayed
+2022 / 10 / 20 12:33:43  :  New topic saved successfully
+2022 / 10 / 20 12:33:43  :  Topic list displayed
+2022 / 10 / 20 12:34:41  :  Topic list displayed
+2022 / 10 / 20 12:36:15  :  New topic method called
+2022 / 10 / 20 12:36:15  :  New topic form displayed
+2022 / 10 / 20 12:36:18  :  New topic saved successfully
+2022 / 10 / 20 12:36:18  :  Topic list displayed
+2022 / 10 / 20 13:46:06  :  New user method called
+2022 / 10 / 20 13:46:06  :  Sign up form displayed
+2022 / 10 / 20 13:46:11  :  New user saved successfully with the following details:
+Email address: c
+2022 / 10 / 20 13:47:08  :  Topic list displayed
+2022 / 10 / 20 13:48:16  :  Topic list displayed
+2022 / 10 / 20 13:48:27  :  Topic list displayed
+2022 / 10 / 20 13:48:35  :  Topic list displayed
+2022 / 10 / 20 13:48:48  :  Topic list displayed
+2022 / 10 / 20 15:12:46  :  Topic list displayed
+2022 / 10 / 20 15:21:37  :  Topic list displayed
+2022 / 10 / 20 15:24:11  :  Topic list displayed
+2022 / 10 / 20 15:35:09  :  Topic list displayed
+2022 / 10 / 20 15:44:13  :  Topic list displayed
+2022 / 10 / 20 15:53:39  :  Topic list displayed
+2022 / 10 / 20 15:54:40  :  Topic list displayed
+2022 / 10 / 20 15:57:42  :  Topic list displayed
+2022 / 10 / 20 16:22:15  :  Topic list displayed
+2022 / 10 / 20 19:32:41  :  Topic list displayed
+2022 / 10 / 20 19:32:46  :  Topic list displayed
+2022 / 10 / 20 19:35:29  :  New user method called
+2022 / 10 / 20 19:35:29  :  Sign up form displayed
+2022 / 10 / 20 19:35:31  :  Topic list displayed
+2022 / 10 / 20 20:28:29  :  New user method called
+2022 / 10 / 20 20:28:29  :  Sign up form displayed
+2022 / 10 / 20 20:30:03  :  New user method called
+2022 / 10 / 20 20:30:03  :  Sign up form displayed
+2022 / 10 / 20 20:32:56  :  New user method called
+2022 / 10 / 20 20:32:56  :  Sign up form displayed
+2022 / 10 / 20 20:33:51  :  New user method called
+2022 / 10 / 20 20:33:51  :  Sign up form displayed
+2022 / 10 / 20 20:34:09  :  New user method called
+2022 / 10 / 20 20:34:09  :  Sign up form displayed
+2022 / 10 / 20 20:35:54  :  New user method called
+2022 / 10 / 20 20:35:54  :  Sign up form displayed
+2022 / 10 / 20 20:35:56  :  New user method called
+2022 / 10 / 20 20:35:56  :  Sign up form displayed
+2022 / 10 / 20 20:35:58  :  New user method called
+2022 / 10 / 20 20:35:58  :  Sign up form displayed
+2022 / 10 / 20 20:36:11  :  New user method called
+2022 / 10 / 20 20:36:11  :  Sign up form displayed
+2022 / 10 / 20 20:36:12  :  New user method called
+2022 / 10 / 20 20:36:12  :  Sign up form displayed
+2022 / 10 / 20 20:36:18  :  New user method called
+2022 / 10 / 20 20:36:18  :  Sign up form displayed
+2022 / 10 / 20 20:36:25  :  New user method called
+2022 / 10 / 20 20:36:25  :  Sign up form displayed
+2022 / 10 / 20 20:36:29  :  New user method called
+2022 / 10 / 20 20:36:29  :  Sign up form displayed
+2022 / 10 / 20 20:36:31  :  New user method called
+2022 / 10 / 20 20:36:31  :  Sign up form displayed
+2022 / 10 / 20 20:36:36  :  New user method called
+2022 / 10 / 20 20:36:36  :  Sign up form displayed
+2022 / 10 / 20 20:36:37  :  New user method called
+2022 / 10 / 20 20:36:37  :  Sign up form displayed
+2022 / 10 / 20 20:44:42  :  New user method called
+2022 / 10 / 20 20:44:42  :  Sign up form displayed
+2022 / 10 / 20 20:44:44  :  New user method called
+2022 / 10 / 20 20:44:44  :  Sign up form displayed
+2022 / 10 / 20 20:44:45  :  New user method called
+2022 / 10 / 20 20:44:45  :  Sign up form displayed
+2022 / 10 / 20 20:45:53  :  Topic list displayed
+2022 / 10 / 20 20:46:41  :  Topic list displayed
+2022 / 10 / 20 20:46:45  :  Topic list displayed
+2022 / 10 / 20 20:46:57  :  New user method called
+2022 / 10 / 20 20:46:57  :  Sign up form displayed
+2022 / 10 / 20 20:47:02  :  New user saved successfully with the following details:
 Email address: w
-2014 / 10 / 30 23:20:08  :  Topic list displayed
-2014 / 10 / 30 23:29:59  :  Topic list displayed
-2014 / 10 / 30 23:37:13  :  Topic list displayed
-2014 / 10 / 31 18:23:23  :  Topic list displayed
-2014 / 10 / 31 18:24:18  :  Topic list displayed
-2014 / 10 / 31 18:24:46  :  Topic list displayed
-2014 / 10 / 31 18:26:39  :  Topic list displayed
-2014 / 10 / 31 18:27:24  :  Topic list displayed
-2014 / 10 / 31 18:28:30  :  New comment saved successfully
-2014 / 10 / 31 18:29:47  :  Topic list displayed
-2014 / 10 / 31 18:37:10  :  Topic list displayed
-2014 / 10 / 31 18:38:02  :  Topic list displayed
-2014 / 10 / 31 18:48:10  :  Topic list displayed
-2014 / 10 / 31 18:49:25  :  Topic list displayed
-2014 / 10 / 31 18:57:33  :  User deleted successfully
-2014 / 10 / 31 18:58:33  :  User deleted successfully
-2014 / 10 / 31 19:00:37  :  Topic list displayed
-2014 / 10 / 31 20:08:26  :  Topic list displayed
-2014 / 10 / 31 20:13:42  :  Topic list displayed
-2014 / 10 / 31 20:14:25  :  Topic deleted successfully
-2014 / 10 / 31 20:14:25  :  Topic list displayed
-2014 / 10 / 31 20:17:17  :  Topic list displayed
-2014 / 10 / 31 20:17:53  :  Topic list displayed
-2014 / 10 / 31 20:18:04  :  Topic list displayed
-2014 / 10 / 31 20:18:44  :  New topic method called
-2014 / 10 / 31 20:18:44  :  New topic form displayed
-2014 / 10 / 31 20:18:56  :  New topic saved successfully
-2014 / 10 / 31 20:18:56  :  Topic list displayed
-2014 / 10 / 31 20:19:03  :  New comment saved successfully
-2014 / 10 / 31 20:19:51  :  Topic list displayed
-2014 / 10 / 31 20:19:59  :  Topic deleted successfully
-2014 / 10 / 31 20:19:59  :  Topic list displayed
-2014 / 10 / 31 20:20:06  :  Topic list displayed
-2014 / 10 / 31 20:21:51  :  Topic list displayed
-2014 / 10 / 31 20:22:42  :  Topic list displayed
-2014 / 10 / 31 20:22:52  :  Topic list displayed
-2014 / 10 / 31 20:23:03  :  Topic list displayed
-2014 / 10 / 31 20:23:27  :  Topic list displayed
-2014 / 10 / 31 20:23:31  :  Topic list displayed
-2014 / 10 / 31 20:24:12  :  Topic list displayed
-2014 / 10 / 31 20:24:15  :  Topic list displayed
-2014 / 10 / 31 20:26:43  :  Topic list displayed
-2014 / 10 / 31 20:26:46  :  Topic list displayed
-2014 / 10 / 31 20:27:25  :  Topic list displayed
-2014 / 10 / 31 20:28:13  :  Topic list displayed
-2014 / 10 / 31 20:28:33  :  Topic list displayed
-2014 / 10 / 31 20:28:39  :  Topic list displayed
-2014 / 10 / 31 20:28:53  :  Topic list displayed
-2014 / 10 / 31 20:29:21  :  Topic list displayed
-2014 / 10 / 31 20:29:33  :  Topic deleted successfully
-2014 / 10 / 31 20:29:33  :  Topic list displayed
-2014 / 10 / 31 20:29:58  :  Topic list displayed
-2014 / 10 / 31 20:30:07  :  Topic list displayed
-2014 / 10 / 31 20:31:54  :  Topic list displayed
-2014 / 10 / 31 20:32:11  :  Topic list displayed
-2014 / 10 / 31 20:39:13  :  Topic list displayed
-2014 / 10 / 31 20:39:53  :  Topic list displayed
-2014 / 10 / 31 20:39:55  :  Topic list displayed
-2014 / 10 / 31 20:40:09  :  Topic list displayed
-2014 / 10 / 31 20:41:12  :  User deleted successfully
-2014 / 10 / 31 20:43:33  :  Topic list displayed
-2014 / 10 / 31 20:44:09  :  Topic list displayed
-2014 / 10 / 31 20:50:07  :  Topic list displayed
-2014 / 10 / 31 20:50:23  :  Topic list displayed
-2014 / 10 / 31 20:50:43  :  User deleted successfully
-2014 / 10 / 31 20:55:54  :  User deleted successfully
-2014 / 10 / 31 21:11:17  :  User deleted successfully
-2014 / 10 / 31 21:34:47  :  User deleted successfully
-2014 / 10 / 31 21:47:53  :  User deleted successfully
-2014 / 10 / 31 21:48:32  :  User deleted successfully
-2014 / 10 / 31 21:48:39  :  Topic list displayed
-2014 / 10 / 31 21:49:06  :  User deleted successfully
-2014 / 10 / 31 22:30:21  :  User deleted successfully
-2014 / 10 / 31 23:00:17  :  User deleted successfully
-2014 / 10 / 31 23:08:48  :  User deleted successfully
-2014 / 10 / 31 23:27:56  :  User deleted successfully
-2014 / 10 / 31 23:31:46  :  User deleted successfully
-2014 / 10 / 31 23:33:36  :  Topic list displayed
-2014 / 10 / 31 23:34:02  :  Topic list displayed
-2014 / 10 / 31 23:35:56  :  User deleted successfully
-2014 / 10 / 31 23:39:32  :  Topic list displayed
-2014 / 10 / 31 23:40:24  :  Topic deleted successfully
-2014 / 10 / 31 23:40:24  :  Topic list displayed
-2014 / 10 / 31 23:40:42  :  Topic list displayed
-2014 / 10 / 31 23:41:10  :  Topic list displayed
-2014 / 10 / 31 23:41:25  :  Error while trying to save new comment
-2014 / 10 / 31 23:43:27  :  Error while trying to save new comment
-2014 / 10 / 31 23:52:22  :  Error while trying to save new comment
-2014 / 10 / 31 23:53:25  :  New comment saved successfully
-2014 / 10 / 31 23:53:37  :  New comment saved successfully
-2014 / 10 / 31 23:53:51  :  Error while trying to save new comment
-2014 / 11 / 01 00:03:15  :  Error while trying to save new comment
-2014 / 11 / 01 00:03:27  :  Topic list displayed
-2014 / 11 / 01 00:03:40  :  Topic list displayed
-2014 / 11 / 01 00:04:16  :  Error while trying to save new comment
-2014 / 11 / 03 19:30:55  :  Topic list displayed
-2014 / 11 / 03 19:31:57  :  New user method called
-2014 / 11 / 03 19:31:58  :  Sign up form displayed
-2014 / 11 / 03 19:32:03  :  New user saved successfully with the following details:
-Email address: q
-2014 / 11 / 03 19:32:22  :  User deleted successfully
-2014 / 11 / 03 22:21:18  :  Topic list displayed
-2014 / 11 / 03 22:25:46  :  Topic list displayed
+2022 / 10 / 20 20:49:53  :  Topic list displayed
+2022 / 10 / 20 20:50:26  :  Topic list displayed
+2022 / 10 / 20 20:50:36  :  Topic list displayed
+2022 / 10 / 20 20:51:26  :  Topic list displayed
+2022 / 10 / 20 20:51:28  :  Topic list displayed
+2022 / 10 / 20 20:58:27  :  New user method called
+2022 / 10 / 20 20:58:27  :  Sign up form displayed
+2022 / 10 / 20 21:00:14  :  New user method called
+2022 / 10 / 20 21:00:14  :  Sign up form displayed
+2022 / 10 / 20 21:00:28  :  New user method called
+2022 / 10 / 20 21:00:28  :  Sign up form displayed
+2022 / 10 / 20 21:01:10  :  New user method called
+2022 / 10 / 20 21:01:10  :  Sign up form displayed
+2022 / 10 / 20 21:01:21  :  New user method called
+2022 / 10 / 20 21:01:21  :  Sign up form displayed
+2022 / 10 / 20 21:01:23  :  New user method called
+2022 / 10 / 20 21:01:23  :  Sign up form displayed
+2022 / 10 / 20 21:01:32  :  New user method called
+2022 / 10 / 20 21:01:32  :  Sign up form displayed
+2022 / 10 / 20 21:01:45  :  New user method called
+2022 / 10 / 20 21:01:45  :  Sign up form displayed
+2022 / 10 / 20 21:01:52  :  New user method called
+2022 / 10 / 20 21:01:52  :  Sign up form displayed
+2022 / 10 / 20 21:06:17  :  Topic list displayed
+2022 / 10 / 20 21:06:20  :  Topic list displayed
+2022 / 10 / 21 18:51:10  :  Topic list displayed
+2022 / 10 / 21 18:51:12  :  Topic list displayed
+2022 / 10 / 21 18:51:44  :  Topic list displayed
+2022 / 10 / 21 19:05:11  :  New user method called
+2022 / 10 / 21 19:05:11  :  Sign up form displayed
+2022 / 10 / 21 19:12:35  :  Topic list displayed
+2022 / 10 / 21 19:14:06  :  Topic list displayed
+2022 / 10 / 21 19:14:21  :  Topic list displayed
+2022 / 10 / 21 19:14:24  :  New topic method called
+2022 / 10 / 21 19:14:25  :  New topic form displayed
+2022 / 10 / 21 19:14:28  :  New topic saved successfully
+2022 / 10 / 21 19:14:29  :  Topic list displayed
+2022 / 10 / 21 19:14:43  :  Topic list displayed
+2022 / 10 / 21 19:14:53  :  Topic list displayed
+2022 / 10 / 21 19:16:43  :  Topic list displayed
+2022 / 10 / 21 19:18:08  :  Topic list displayed
+2022 / 10 / 21 19:25:13  :  Topic list displayed
+2022 / 10 / 21 19:39:46  :  New topic method called
+2022 / 10 / 21 19:39:46  :  New topic form displayed
+2022 / 10 / 21 19:40:54  :  Topic list displayed
+2022 / 10 / 21 19:42:35  :  Topic list displayed
+2022 / 10 / 21 19:42:43  :  Topic list displayed
+2022 / 10 / 21 19:42:45  :  Topic list displayed
+2022 / 10 / 21 19:42:46  :  Topic list displayed
+2022 / 10 / 21 19:42:50  :  New user method called
+2022 / 10 / 21 19:42:50  :  Sign up form displayed
+2022 / 10 / 21 19:42:57  :  New user saved successfully with the following details:
+Email address: a
+2022 / 10 / 21 19:43:04  :  Topic list displayed
+2022 / 10 / 21 19:43:06  :  Topic list displayed
+2022 / 10 / 21 19:43:08  :  Topic list displayed
+2022 / 10 / 21 19:43:18  :  Topic list displayed
+2022 / 10 / 21 19:43:19  :  New topic method called
+2022 / 10 / 21 19:43:19  :  New topic form displayed
+2022 / 10 / 21 19:44:05  :  New topic saved successfully
+2022 / 10 / 21 19:44:05  :  Topic list displayed
+2022 / 10 / 21 19:44:47  :  Topic list displayed
+2022 / 10 / 21 19:45:00  :  Topic list displayed
+2022 / 10 / 21 19:45:45  :  Topic list displayed
+2022 / 10 / 21 19:58:48  :  New user method called
+2022 / 10 / 21 19:58:48  :  Sign up form displayed
+2022 / 10 / 21 19:58:54  :  New user saved successfully with the following details:
+Email address: b
+2022 / 10 / 22 13:51:08  :  Topic list displayed
+2022 / 10 / 22 13:52:05  :  Topic list displayed
+2022 / 10 / 22 13:52:12  :  Topic list displayed
+2022 / 10 / 22 13:52:16  :  Topic list displayed
+2022 / 10 / 22 13:52:21  :  Topic list displayed
+2022 / 10 / 22 13:52:27  :  Topic list displayed
+2022 / 10 / 22 13:52:28  :  New topic method called
+2022 / 10 / 22 13:52:28  :  New topic form displayed
+2022 / 10 / 22 13:52:47  :  New topic saved successfully
+2022 / 10 / 22 13:52:47  :  Topic list displayed
