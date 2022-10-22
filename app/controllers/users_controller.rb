@@ -7,7 +7,7 @@
 
 
   def create  
-    @user = User.new(params[:user])  
+    @user = User.new(user_params)  
     if @user.save  
       event_logger ("New user saved successfully with the following details:\n"+"Email address: "+@user.email)
       redirect_to root_url
@@ -26,6 +26,7 @@
       @users=User.active
     end 
   end
+
 
   def show
     @user = User.find(params[:id])
@@ -55,6 +56,12 @@
 
   def edit
     @user = User.find(params[:id])
+  end
+  
+  private
+
+  def user_params
+    params.require(:user).permit(:email, :name, :active, :password)
   end
 
 end

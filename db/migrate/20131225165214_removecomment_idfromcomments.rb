@@ -1,4 +1,4 @@
-class RemovecommentIdfromcomments < ActiveRecord::Migration
+class RemovecommentIdfromcomments < ActiveRecord::Migration[7.0]
   def up
   remove_column :comments, :comment_id
   end

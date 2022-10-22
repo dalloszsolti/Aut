@@ -7,7 +7,7 @@
 
 
   def create  
-	@topic = Topic.new(params[:topic])
+	@topic = Topic.new(topic_params) 
 	@topic.active = true
 	@topic.user_id = session[:user_id]
 	
@@ -55,6 +55,12 @@
 
   def edit
 	@topic = Topic.find(params[:id])
+  end
+
+  private
+
+  def topic_params
+    params.require(:topic).permit(:title, :description)
   end
 
 end

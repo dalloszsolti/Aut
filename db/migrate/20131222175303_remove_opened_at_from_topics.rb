@@ -1,4 +1,4 @@
-class RemoveOpenedAtFromTopics < ActiveRecord::Migration
+class RemoveOpenedAtFromTopics < ActiveRecord::Migration[7.0]
   def up
   remove_column :topics, :opened_at
   end

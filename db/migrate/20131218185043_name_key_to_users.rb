@@ -1,4 +1,4 @@
-class NameKeyToUsers < ActiveRecord::Migration
+class NameKeyToUsers < ActiveRecord::Migration[7.0]
   def up
   end
 

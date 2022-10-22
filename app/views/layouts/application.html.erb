@@ -1,36 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Fórum</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
-  <%= javascript_include_tag "application" %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
-
-<body bgcolor="Silver">
-
-<div id="user_nav">
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fórum</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  </head>
   
-  <% if current_user %>
-    Bejelentkezett felhasználó: <%= current_user.name%> (<%=current_user.role%>)
-      <%= link_to "Kijelentkezés", log_out_path %>
-   <% else %>
-      <%= link_to "Regisztráció", sign_up_path %> vagy 
-      <%= link_to "Bejelentkezés", log_in_path %>
-  <% end %>
-<br>
-<br>
-  <%= link_to "Felhasználók", users_path %>  |
-  <%= link_to "Fórum", topics_path %>
+  <body>
+    <%= render "home/header" %>
   
-</div>
-
-  <% flash.each do |key, value| %>
-    <%= content_tag(:div, value, :class => "flash #{key}") %>
-  <% end %>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    
 <%= yield %>
 
-</body>
+  </body>
 </html>

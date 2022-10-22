@@ -1,6 +1,6 @@
 ﻿class Topic < ActiveRecord::Base
 
-attr_accessible :active, :id, :opened_at, :title, :description
+# attr_accessible :active, :id, :opened_at, :title, :description
 
 belongs_to :user
 has_many :comments

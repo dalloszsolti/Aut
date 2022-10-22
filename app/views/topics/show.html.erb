@@ -1,57 +1,31 @@
-﻿<%= stylesheet_link_tag "main" %>
-
+﻿
 <html>
-  <head>
-	<title>Fórum</title>
-  </head>
+<head>
+<title>Topik Adatai</title>
+</head>
 
-<h1>Fórum</h1>
+<body bgcolor="Silver">
+<h1>Topik Adatai</h1>
 
-<h2><%=h @topic.title %></h2>
+<h2>Alapadatok</h2>
+<b>Cím:</b>
+<%=h @topic.title %>
 
-  <b>Leírás:</b>
-  <%=h @topic.description %>
+<b>Létrehozva:</b>
+<%=h @topic.created_at %>  
 <br>
-  <b>Létrehozta:</b>
-  <%= @topic.user.name %> 
-<br>
 
-  <b>Létrehozva:</b>
-  <%=h @topic.created_at.strftime('%Y %b %d %H:%M:%S') %>
-  <br>
+
 
 <br>
 <br>
-<% if current_user %>
 <%= link_to 'Szerkesztés', edit_topic_path(@topic) %> | 
-<%= link_to 'Törlés', @topic, :confirm => 'Biztosan törli ezt a topikot?', :method => :delete %>   | 
+<%= link_to 'Törlés', @topic, :confirm => 'Biztosan törli ezt a fórumot?', :method => :delete %>  
+<br>
+<br>
+
 <%= link_to 'Vissza', topics_path %>
-<% end %>
 
-<h2>Hozzászólások</h2>
 
-<table class="comments_table">
-<% @topic.comments.each.with_index do |comment, index| %>
-  <tr>
-  <th># <%=index+1%>.  <%=User.find(comment.user_id).name %>       (<%= comment.updated_at.strftime('%Y %b %d %H:%M:%S')%>)</th>
-  </tr>
-  <tr>
-  <td><%= comment.content %></td>
-  </tr>
-<% end %>
-</table>
-
-<% if current_user %>
-  <h2>Új hozzászólás</h2>
-  <%= form_for([@topic, @topic.comments.build]) do |f| %>
-    <p>
-      <%= f.label :content, "Hozzászólás szövege:" %><br />
-      <%= f.text_area :content, :required => true, :cols => 100, :rows => 10 %>
-    </p>
-    <p>
-      <%= f.submit "Hozzászólás rögzítése" %>
-    </p>
-<% end %>
-<% end %>
 
 </html>
